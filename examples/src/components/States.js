@@ -22,7 +22,7 @@ var StatesField = createClass({
 			country: 'AU',
 			disabled: false,
 			searchable: this.props.searchable,
-			selectValue: 'new-south-wales',
+			selectValue: 'victoria',
 			clearable: true,
 			rtl: false,
 		};
